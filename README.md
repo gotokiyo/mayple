@@ -17,7 +17,7 @@
 * 戦闘力を伸ばす方法
   * 潜在能力
   * スターフォース
-  * 追加オプション
+  * [追加オプション](https://github.com/gotokiyo/mayple/tree/main/additional_option)
   * ファミリア
   * ハイパーステータス
   * アビリティ
