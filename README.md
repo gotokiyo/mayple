@@ -1,0 +1,29 @@
+* wiki
+  * [メ淫プルストーリー](https://wikiwiki.jp/mapleinm/)
+    * ちょっと情報古い可能性あり
+  * [namuwiki](https://ja.namu.wiki/w/%EB%A9%94%EC%9D%B4%ED%94%8C%EC%8A%A4%ED%86%A0%EB%A6%AC/%EC%A7%81%EC%97%85)
+    * 韓国のサイト。一番最新の情報乗ってると思う。
+  * [メイプル研究所](https://mushroom-lab.com/)
+    * 新進気鋭。着々と情報更新されてると思う。
+   
+* 有用サイト
+  * [きのこツール](https://kinokohub.net/tools)
+    * HEXA換算とか
+  * [maplemaps](https://maplemaps.net/)
+    * メイプルの各マップ検索
+  * [メイプルタスクマネージャー](https://maple-task-manager.vercel.app/)
+    * タスク管理。
+   
+* 戦闘力を伸ばす方法
+  * 潜在能力
+  * スターフォース
+  * 追加オプション
+  * ファミリア
+  * ハイパーステータス
+  * アビリティ
+  * ユニオン
+  * リンクスキル
+  * UG強化
+  * シンボル強化
+  * セット効果
+  * 5次、6次スキル強化
